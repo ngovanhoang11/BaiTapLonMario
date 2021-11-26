@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: d8669b826d42823418768b6c3a73939c
+timeCreated: 1517475743
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Disko
+  fontNames:
+  - Disko
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 5f92598543366924d8df45440e9cd7ca, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
